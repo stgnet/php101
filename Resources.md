@@ -5,13 +5,22 @@ General Coding Concepts
 ---
 * [You are not your code](http://www.hanselman.com/blog/YouAreNotYourCode.aspx)
 
-Online PHP Editing and Testing
-------------------------------
+Online PHP Editing Tools
+------------------------
 * [List of Online PHP Codepads](http://hakre.wordpress.com/2011/10/05/list-of-online-php-codepads/)
-* [List of Free PHP Books](http://www.linuxlinks.com/article/20130119004851789/9oftheBestFreePHPBooks-Part1.html)
+* [PHP Scribble](http://www.phpscribble.com/)
+* [Write Code Online - PHP](http://writecodeonline.com/php/)
+* [Ignite](https://ignite.io/)
+
+
+Online PHP Manual
+---
+* [The Annotated PHP Manual (PHP.Net)](http://www.php.net/manual/) - details on classes, functions, etc
+* [PHP The Right Way](http://www.phptherightway.com) - style and best practices
 
 Online PHP Tutorials
 ---
+* [PHP.Net - A Simple Tutorial](http://conf.php.net/tut.php)
 * [w3schools PHP Tutorial](http://www.w3schools.com/php/default.asp)
 * [PHPBuddy Quick Start](http://www.phpbuddy.com/category.php?cat_id=QUICK)
 * [About.com Learn PHP](http://php.about.com/od/learnphp/p/learn_php_free.htm)
@@ -29,6 +38,7 @@ Online (Free) PHP Books
 Bootstrap
 ---------
 * [Content CDN](http://www.bootstrapcdn.com)
+* [Bootsnipp: A gallery of HTML snippets for Bootstrap](http://bootsnipp.com/)
 
 Regular Expressions
 ---
